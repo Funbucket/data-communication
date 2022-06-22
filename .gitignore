@@ -1,0 +1,7 @@
+*.docx
+*.doc
+*.pdf
+*.wav
+.idea
+practice/
+.mov
